@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "thewhiterabbit",
+  "version": "0.1",
+  "description": "A Cloudflare proof-of-concept mini worker that gives you the time",
+  "main": "main.js",
+  "license": "MIT"
+}
